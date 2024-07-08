@@ -49,7 +49,9 @@
   </div>
   <br>
   <h3>:pencil2: Studying </h3>
-
+  <div>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+  </div>
   
 </div>
 
