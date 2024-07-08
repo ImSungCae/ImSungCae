@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Welcome&fontSize=60&desc=ImSungCae's%20Github" />
 
   <br>
-  <h3> Tech Stack </h3>
+  <h3>:books: Tech Stack </h3>
   <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
