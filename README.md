@@ -38,7 +38,12 @@
     <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> 
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
     
-    
+  </div>
+  
+  <p><strong>Template Engine</strong></p>
+  <div>
+    <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Tiles?style=for-the-badge&logoColor=white"> 
   </div>
   
   <h3> Studying </h3>
