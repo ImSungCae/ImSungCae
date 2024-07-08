@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![ImSungCae's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImSungCae&show_icons=true&theme=radical)
+
 <!--
 **ImSungCae/ImSungCae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
