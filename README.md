@@ -2,6 +2,27 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Welcome&fontSize=60&desc=ImSungCae's%20Github" />
+
+  <br>
+  <h3> Tech Stack </h3>
+  <p> Frontend </p>
+
+  <p> Backend </p>
+
+  <p> Database </p>
+
+  <p> Server </p>
+
+  <p> Development Tools </p>
+
+  <p> Framework </p>
+
+  <p> Version Control </p>
+  
+  <h3> Studying </h3>
+
+  <h3> Tools </h3>
+  
 </div>
 
 
