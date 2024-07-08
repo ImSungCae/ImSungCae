@@ -43,7 +43,7 @@
   <p><strong>Template Engine</strong></p>
   <div>
     <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Tiles?style=for-the-badge&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Tiles-007396?style=for-the-badge&logo=tiles&logoColor=white"> 
   </div>
   
   <h3> Studying </h3>
