@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Tiles-007396?style=for-the-badge&logo=tiles&logoColor=white"> 
   </div>
   <br>
-  <h3> Studying </h3>
+  <h3>:pencil2: Studying </h3>
 
   
 </div>
